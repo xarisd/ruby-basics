@@ -1,0 +1,2 @@
+BEGIN { puts "", "" }
+END { puts "", "" }
