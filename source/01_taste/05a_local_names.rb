@@ -22,3 +22,12 @@ $glob = "I AM GLOBAL"
 
 
 some_method(5)
+
+
+
+def Bad_name
+  puts "bad name? Why Ruby does it, then?"
+end
+
+Bad_name()
+Bad_name
