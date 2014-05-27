@@ -35,6 +35,3 @@ b = SomeClass.new
 
 a.report_status
 b.report_status
-
-
-
