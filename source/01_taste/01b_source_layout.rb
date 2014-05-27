@@ -5,7 +5,7 @@ a = 5
 b = 4
 + 4 + 2
 
-# unless the parser can determine that the statement 
+# unless the parser can determine that the statement
 # is incomplete (i.e. if the last token is an operator or comma)
 c = 1 + 2 +
   3 + 4

@@ -14,7 +14,7 @@ puts "I have a comment at the end of my line" # this is a comment
 
 =begin
 
-puts "I am not going to see the world :-("   
+puts "I am not going to see the world :-("
 puts "Me neither..."
 
 =end
