@@ -3,7 +3,6 @@ DOWN = 2
 RIGHT = 3
 LEFT = 4
 
-# bad code...
 def look(direction)
   if direction == UP
     puts "looking up"

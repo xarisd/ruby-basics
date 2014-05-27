@@ -19,7 +19,7 @@ class Person
 end
 
 person = Person.new
-person.name = "George"
+person.name = "George" # can be used as lvalue in an assignment
 
 
 puts "person's name is #{person.name}"
@@ -31,5 +31,3 @@ if person.has_name?
 else
   puts "Hello anonymous!"
 end
-
-
