@@ -9,3 +9,5 @@ else
 end
 
 puts "Hello fellows!" if today.tuesday?
+
+# similar with unless
