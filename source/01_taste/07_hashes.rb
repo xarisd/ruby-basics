@@ -1,4 +1,5 @@
-# Hash BASICS
+# Hashes
+# http://www.ruby-doc.org/core-2.1.2/Hash.html
 
 # Hash can be written like this
 some_hash = {

@@ -1,4 +1,5 @@
-# Array BASICS
+# Arrays
+# http://www.ruby-doc.org/core-2.1.2/Array.html
 
 # Array with 4 elements
 a = [12, 'person', 15, 3.14]
@@ -23,4 +24,3 @@ puts s.inspect
 
 s2 = %w{ test foo bar }
 puts s2.inspect
-
